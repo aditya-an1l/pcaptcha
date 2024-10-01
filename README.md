@@ -29,7 +29,7 @@ On Unix
 On Windows
    ```
    python -m venv venv
-   source venv\Scripts\activate`
+   source venv\Scripts\activate
    ```
 3. Install the required packages:
    ```
