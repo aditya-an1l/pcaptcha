@@ -1,4 +1,5 @@
-## 🔐 PCAPTCHA - Captcha Generation using Python
+ear
+# 🔐 PCAPTCHA - Captcha Generation using Python
 
 ## v0.1.0: Bare Minimum ⚙️ 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/downloads/)
@@ -29,7 +30,7 @@ On Unix
 On Windows
    ```
    python -m venv venv
-   source venv\Scripts\activate`
+   source venv\Scripts\activate
    ```
 3. Install the required packages:
    ```
