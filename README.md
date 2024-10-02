@@ -1,4 +1,3 @@
-ear
 # 🔐 PCAPTCHA - Captcha Generation using Python
 
 ## v0.1.0: Bare Minimum ⚙️ 
