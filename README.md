@@ -45,7 +45,7 @@ On Windows
 
 2. Run the main script:
    ```
-   ./main.py
+   python ./main.py
    ```
 
 Generated captcha images will be stored in the `scripts/media` directory.
@@ -58,7 +58,7 @@ pcaptcha/
 │   ├── main.py
 │   └── media/
 ├── venv/
-|-- requirements.txt
+├── requirements.txt
 └── README.md
 ```
 
